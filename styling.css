@@ -1,0 +1,35 @@
+
+.about-us{
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(#8a41bb,#ff0080,#f7d100);
+    font-size: 20px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#ffffff;
+    border: 2.5px solid#000000;
+}
+.grid2{
+    display: flex;
+    border-radius: 20px;
+    background-color:#ffffff;
+    width: 350px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    justify-content: flex-center;
+   
+}
+.grid3{
+    display: flex;
+    border-radius: 20px;
+    background-color:#ffffff;
+    width: 200px;
+    font-family:fantasy ;
+    border: 2.5px solid#000000;
+    justify-content: flex-center;
+
+}
+body{
+    background-color:#000000;
+}
